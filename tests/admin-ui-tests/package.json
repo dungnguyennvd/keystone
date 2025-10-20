@@ -13,7 +13,7 @@
     "execa": "^5.1.1",
     "express": "^4.17.1",
     "graphql": "^16.6.0",
-    "playwright": "^1.17.1",
+    "playwright": "^1.55.1",
     "treekill": "^1.0.0"
   },
   "scripts": {
